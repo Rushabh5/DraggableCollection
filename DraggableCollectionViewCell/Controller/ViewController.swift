@@ -19,6 +19,7 @@ class ViewController: UIViewController {
     //MARK: Variable declaration
 
     var strArr: [Character] = ("A"..."Z").characters
+    
     fileprivate var longPress: UILongPressGestureRecognizer!
     
     //MARK:
